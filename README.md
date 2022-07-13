@@ -1,2 +1,2 @@
-﻿# SQLBolt-MySQLtask
-SQLBolt task complete
+﻿# SQLBolt-Exercises
+SQL Bolt lessons complete
